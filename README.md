@@ -1,5 +1,7 @@
 # Sudoku
 
+Dado algumas imagens do jogo sudoku, foi aplicado um processamento de imagem em python e utilizando o opencv para fazer o reconhecimento apenas dos digitos.
+
 As imagens a seguir mostram o resultado final:
 
 ![Imagem 1](https://github.com/Murilobdo/Sudoku/blob/master/resultados/sudoku1.PNG)
